@@ -9,7 +9,7 @@ You can use any of the database like :
 NOTE : you have to use the particular driver according to your db,as I have used mysql driver for this project
 
 For more details : 
-* [Gorilla Mux](github.com/gorilla/mux/)
+* [Gorilla Mux](https://github.com/gorilla/mux/)
 * [ORM lib for Go](https://gorm.io)
 
 ## Instructions to run code:
