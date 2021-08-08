@@ -10,7 +10,7 @@ NOTE : you have to use the particular driver according to your db,as I have used
 
 For more details : 
 * [Gorilla Mux](https://github.com/gorilla/mux/)
-* [ORM lib for Go](https://gorm.io)
+* [ORM lib for Go](https://gorm.io/)
 
 ## Instructions to run code:
 -  Clone the repo
