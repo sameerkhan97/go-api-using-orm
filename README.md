@@ -20,7 +20,8 @@ For more details :
     * edit this [line](https://github.com/sameerkhan97/go-api-with-gorm/blob/b790a9806bf2453da0d0b3efb8c468163477bef3/main.go#L20) in the main file to connect with your mysql database
 
 - Run the app using
-     * in powershell use specific file name to run the project
+     * in powershell use "go mod vendor" to synch the vendor directories 
+     * now use specific file name to run the project
      * command go run main.go
 
  - Use POSTMAN for Testing
